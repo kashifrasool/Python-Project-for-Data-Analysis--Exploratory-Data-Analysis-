@@ -1,10 +1,11 @@
-Python Project for Data Analysis- Exploratory Data Analysis | Data Analyst Project
+Python Project for Data Analysis - Exploratory Data Analysis | Data Analyst Project
 
 Kashif Rasool
 
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-Learn Python on Jupyter Notebook using a data analyst project. Topics covered in this Python Project:
+Data analyst project using Python on Jupyter Notebook. 
+Topics covered in this Python Project:
 
 - download and install Python 
 - install jupyter notebook 
