@@ -1,6 +1,6 @@
 Python Project for Data Analysis - Exploratory Data Analysis | Data Analyst Project
 
-Kashif Rasool
+By: Kashif Rasool
 
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -13,4 +13,4 @@ Topics covered in this Python Project:
 - data cleaning and processing using python
 - exploratory data analysis using python for beginners 
 - most used data analytics libraries in python: numpy, pandas, matplotlib and seaborn
-- insights/learning from python project 
+- insights/learning from python project
