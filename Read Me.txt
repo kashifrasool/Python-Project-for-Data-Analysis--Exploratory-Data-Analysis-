@@ -1,6 +1,6 @@
 Python Project for Data Analysis - Exploratory Data Analysis | Data Analyst Project
 
-By: Kashif Rasool
+By: Kashif Rasool.
 
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
