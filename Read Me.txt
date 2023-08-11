@@ -2,6 +2,8 @@ Python Project for Data Analysis - Exploratory Data Analysis | Data Analyst Proj
 
 By: Kashif Rasool.
 
+Link:https://github.com/kashifrasool/Python-Project-for-Data-Analysis--Exploratory-Data-Analysis-/blob/main/Diwali_Sales_Analysis.ipynb
+
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 Data analyst project using Python on Jupyter Notebook. 
